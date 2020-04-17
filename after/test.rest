@@ -1,0 +1,6 @@
+DELETE http://localhost:3000/projects/1
+Content-Type: application/json
+
+{
+  "userId": 1
+}
